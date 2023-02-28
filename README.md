@@ -40,3 +40,6 @@ We were able to gain a faster execution time of LightGBM and derive the model to
 Final Accuracy : 95.003 % 
 
 ### Implementation on Local System
+- Copy the data into the folder from this link (https://s3-ap-southeast-1.amazonaws.com/he-public-data/datasetab75fb3.zip). Unzip it
+- Run the Freshwater Prediction.ipynb file on your local system using Jupyter or any other Python Interpreter.
+- Change the path in the ipynb file from C:\Users\User\Downloads\dataset.csv to the path of file in your system
