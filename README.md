@@ -8,3 +8,9 @@ Freshwater is one of our most vital and scarce natural resources, making up just
 
 #### Expected Solution:
 In this track of the hackathon, we apply Machine learning concepts and leverage oneAPI capabilities to help global water security and environmental sustainability efforts by predicting whether freshwater is safe to drink and use for the ecosystems that rely on it
+
+
+#### Objective
+The objective of this project is;
+
+- To Create a prediction model which can determine whether the target source is a freshwater or not.
